@@ -15,7 +15,7 @@
     },
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/lachiep9/3179/main/Week%209%20Homework/data/Billboard%20artists%20by%20country.csv"
+        "url": "https://raw.githubusercontent.com/lachiep9/Week-9/main/data/Billboard%20artists%20by%20country.csv"
       },
       "mark": {"type": "circle", "color":"green"},
       "encoding": {          
